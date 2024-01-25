@@ -9,10 +9,20 @@ import = [
 family = "JetBrainsMono Nerd Font Mono"
 style = "Light"
 
+[font.italic]
+#family = "FiraCode Nerd Font Mono"
+family = "JetBrainsMono Nerd Font Mono"
+style = "Light Italic"
+
 [font.bold]
 #family = "FiraCode Nerd Font Mono"
 family = "JetBrainsMono Nerd Font Mono"
 style = "Bold"
+
+[font.bold_italic]
+#family = "FiraCode Nerd Font Mono"
+family = "JetBrainsMono Nerd Font Mono"
+style = "Bold Italic"
 
 [env]
 TERM = "xterm-256color"
